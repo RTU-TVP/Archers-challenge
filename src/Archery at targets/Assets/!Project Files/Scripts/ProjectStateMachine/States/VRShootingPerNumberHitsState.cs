@@ -23,8 +23,8 @@ namespace ProjectStateMachine.States
         private InformationDeskUI _informationDeskUI;
 
         private int _targetHitCountMax = 5;
-        private int _targetHitCount = 0;
-        private int _timeSeconds = 0;
+        private int _targetHitCount;
+        private int _timeSeconds;
 
         private CancellationTokenSource _cancellationTokenSource;
 

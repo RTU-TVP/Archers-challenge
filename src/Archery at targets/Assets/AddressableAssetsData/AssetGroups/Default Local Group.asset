@@ -15,18 +15,8 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 298a50b6db136a24e807b6d3a66e72fb
   m_SerializeEntries:
-  - m_GUID: 64bf3ad128950a942a6ecbf2a544ac92
-    m_Address: Prefabs/Main Menu Screen.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 69c9b360efcb9124c9a53a2995aedfea
     m_Address: Prefabs/XR Origin (MR Rig).prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: afa83661044c245448e43e38ddc77486
-    m_Address: Prefabs/Information desk Screen.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

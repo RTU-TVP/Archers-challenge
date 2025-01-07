@@ -16,7 +16,7 @@ MonoBehaviour:
   <Name>k__BackingField: Standard Bow
   <Description>k__BackingField: Standard Bow
   <Icon>k__BackingField: {fileID: 0}
-  <IsUnlocked>k__BackingField: 1
+  <IsUnlocked>k__BackingField: 0
   <Customization>k__BackingField:
     rid: 3229442957521715392
   references:
@@ -28,6 +28,6 @@ MonoBehaviour:
         <Reference>k__BackingField:
           m_AssetGUID: 86f8afcad42030a408a5e4eb9d4c205c
           m_SubObjectName: 
-          m_SubObjectGUID: 
           m_SubObjectType: 
+          m_SubObjectGUID: 
           m_EditorAssetChanged: 0
